@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **4177rb@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/rohanxbaria/rohanxbaria/blob/2fd5ccf4fb9c4dadce12312b8b5c63efd70dee89/Resume_LaTeX.pdf)
+- 📄 Know about my experiences [Resume](Resume_LaTeX.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
