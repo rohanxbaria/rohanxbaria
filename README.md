@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Robots and AI/ML**
 
-- 🌱 I’m currently learning and looking for help with**Robotics**
+- 🌱 I’m currently learning and looking for help with **Robotics**
 
 - 📫 How to reach me **4177rb@gmail.com**
 
